@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Posts on 测试1</title>
+		<title>Posts on hare&#39;s blog</title>
 		<link>https://hare0910.github.io/posts/</link>
-		<description>Recent content in Posts on 测试1</description>
+		<description>Recent content in Posts on hare&#39;s blog</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
@@ -168,7 +168,7 @@ For example:
 		</item>
 		
 		<item>
-			<title>Creating a New Theme</title>
+			<title>测试1</title>
 			<link>https://hare0910.github.io/posts/creating-a-new-theme/</link>
 			<pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
 			
