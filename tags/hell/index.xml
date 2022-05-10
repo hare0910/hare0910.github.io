@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hare&#39;s blog</title>
-    <link>https://hare0910.github.io/</link>
-    <description>Recent content on hare&#39;s blog</description>
+    <title>hell on hare&#39;s blog</title>
+    <link>https://hare0910.github.io/tags/hell/</link>
+    <description>Recent content in hell on hare&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 10 May 2022 15:25:58 +0800</lastBuildDate><atom:link href="https://hare0910.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 May 2022 15:25:58 +0800</lastBuildDate><atom:link href="https://hare0910.github.io/tags/hell/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>碎碎念</title>
       <link>https://hare0910.github.io/posts/%E7%A2%8E%E7%A2%8E%E5%BF%B5/</link>
@@ -34,16 +34,6 @@
       <description>试图做一个自己的博客是一件很有意思但是也很痛苦的事
 这里大概会是很多书影音和日常碎碎念地点
 欢迎</description>
-    </item>
-    
-    <item>
-      <title>About this place</title>
-      <link>https://hare0910.github.io/about-hugo/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://hare0910.github.io/about-hugo/</guid>
-      <description>这是一个记录私人书影音以及碎碎念日常的互联网小角落。
-还有很多装修要做。</description>
     </item>
     
   </channel>
