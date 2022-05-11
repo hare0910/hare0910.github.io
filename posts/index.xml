@@ -20,15 +20,20 @@
 持摄像机的人（纪录片
 昆汀塔伦蒂诺的21年（纪录片
 甜蜜的生活
-已看 </description>
-			<content type="html"><![CDATA[<h2 id="film">film</h2>
-<h1 id="待看">待看</h1>
+已看 book 待看 《海浪》伍尔夫
+《我将宇宙随身携带》</description>
+			<content type="html"><![CDATA[<h1 id="film">film</h1>
+<h2 id="待看">待看</h2>
 <p>别让我走</p>
 <p>人约巴黎</p>
 <p>持摄像机的人（纪录片</p>
 <p>昆汀塔伦蒂诺的21年（纪录片</p>
 <p>甜蜜的生活</p>
-<h1 id="已看">已看</h1>
+<h2 id="已看">已看</h2>
+<h1 id="book">book</h1>
+<h2 id="待看-1">待看</h2>
+<p>《海浪》伍尔夫</p>
+<p>《我将宇宙随身携带》</p>
 ]]></content>
 		</item>
 		
@@ -49,18 +54,18 @@ backup for sure 1.《疼痛难免》
 maybe 1.《苏珊娜的故事》
 2.《八恶人》
 3.《布达佩斯大饭店》</description>
-			<content type="html"><![CDATA[<h1 id="511">5.11</h1>
+			<content type="html"><![CDATA[<h2 id="511">5.11</h2>
 <p>1.《落水狗》</p>
 <p>2.《面包店的女孩》</p>
 <p>3.《罗拉快跑》</p>
-<h2 id="backup">backup</h2>
-<h1 id="for-sure">for sure</h1>
+<h1 id="backup">backup</h1>
+<h2 id="for-sure">for sure</h2>
 <p>1.《疼痛难免》</p>
 <p>2.《爱在三部曲》</p>
 <p>3.《妇女参政论者》</p>
 <p>4.《心跳漏一拍》</p>
 <p>5.《罗拉快跑》</p>
-<h1 id="maybe">maybe</h1>
+<h2 id="maybe">maybe</h2>
 <p>1.《苏珊娜的故事》</p>
 <p>2.《八恶人》</p>
 <p>3.《布达佩斯大饭店》</p>
