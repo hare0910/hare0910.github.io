@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hare0910.github.io/about-hugo/about/</loc>
-    <lastmod>2022-05-11T22:40:10+08:00</lastmod>
-  </url><url>
-    <loc>https://hare0910.github.io/about-hugo/</loc>
-    <lastmod>2022-05-11T22:40:10+08:00</lastmod>
-  </url><url>
-    <loc>https://hare0910.github.io/</loc>
-    <lastmod>2022-05-11T22:40:10+08:00</lastmod>
-  </url><url>
     <loc>https://hare0910.github.io/posts/5%E6%9C%88%E5%BD%B1%E5%8D%95%E5%8F%8A%E4%B9%A6%E5%8D%95/</loc>
     <lastmod>2022-05-11T22:27:08+08:00</lastmod>
   </url><url>
@@ -24,6 +15,9 @@
     <lastmod>2022-05-11T22:27:08+08:00</lastmod>
   </url><url>
     <loc>https://hare0910.github.io/tags/</loc>
+    <lastmod>2022-05-11T22:27:08+08:00</lastmod>
+  </url><url>
+    <loc>https://hare0910.github.io/</loc>
     <lastmod>2022-05-11T22:27:08+08:00</lastmod>
   </url><url>
     <loc>https://hare0910.github.io/posts/%E8%A7%82%E5%BD%B1%E8%AE%B0%E5%BD%95/</loc>
