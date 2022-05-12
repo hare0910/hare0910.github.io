@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>About-hugoes on 绿色污染</title>
-    <link>https://hare0910.github.io/about-hugo/</link>
-    <description>Recent content in About-hugoes on 绿色污染</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Wed, 11 May 2022 22:40:10 +0800</lastBuildDate><atom:link href="https://hare0910.github.io/about-hugo/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>https://hare0910.github.io/about-hugo/about/</link>
-      <pubDate>Wed, 11 May 2022 22:40:10 +0800</pubDate>
-      
-      <guid>https://hare0910.github.io/about-hugo/about/</guid>
-      <description>试图做一个自己的博客是一件很有意思但是也很痛苦的事
-这里大概会是很多书影音和日常碎碎念地点
-欢迎</description>
-    </item>
-    
-  </channel>
+    <channel>
+        <title>About-hugoes on 绿色污染</title>
+        <link>https://hare0910.github.io/about-hugo/</link>
+        <description>Recent content in About-hugoes on 绿色污染</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+        <lastBuildDate>Wed, 11 May 2022 22:40:10 +0800</lastBuildDate><atom:link href="https://hare0910.github.io/about-hugo/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>https://hare0910.github.io/about-hugo/about/</link>
+        <pubDate>Wed, 11 May 2022 22:40:10 +0800</pubDate>
+        
+        <guid>https://hare0910.github.io/about-hugo/about/</guid>
+        <description>&lt;p&gt;试图做一个自己的博客是一件很有意思但是也很痛苦的事&lt;/p&gt;
+&lt;p&gt;这里大概会是很多书影音和日常碎碎念地点&lt;/p&gt;
+&lt;p&gt;欢迎&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

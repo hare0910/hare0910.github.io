@@ -1,46 +1,55 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>about movie on 绿色污染</title>
-    <link>https://hare0910.github.io/tags/about-movie/</link>
-    <description>Recent content in about movie on 绿色污染</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Wed, 11 May 2022 22:27:08 +0800</lastBuildDate><atom:link href="https://hare0910.github.io/tags/about-movie/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>5月影单及书单</title>
-      <link>https://hare0910.github.io/posts/5%E6%9C%88%E5%BD%B1%E5%8D%95%E5%8F%8A%E4%B9%A6%E5%8D%95/</link>
-      <pubDate>Wed, 11 May 2022 22:27:08 +0800</pubDate>
-      
-      <guid>https://hare0910.github.io/posts/5%E6%9C%88%E5%BD%B1%E5%8D%95%E5%8F%8A%E4%B9%A6%E5%8D%95/</guid>
-      <description>film 待看 别让我走
-人约巴黎
-持摄像机的人（纪录片
-昆汀塔伦蒂诺的21年（纪录片
-甜蜜的生活
-已看 book 待看 《海浪》伍尔夫
-《我将宇宙随身携带》</description>
-    </item>
-    
-    <item>
-      <title>观影记录</title>
-      <link>https://hare0910.github.io/posts/%E8%A7%82%E5%BD%B1%E8%AE%B0%E5%BD%95/</link>
-      <pubDate>Wed, 11 May 2022 22:11:18 +0800</pubDate>
-      
-      <guid>https://hare0910.github.io/posts/%E8%A7%82%E5%BD%B1%E8%AE%B0%E5%BD%95/</guid>
-      <description>5.11 1.《落水狗》
-2.《面包店的女孩》
-3.《罗拉快跑》
-backup for sure 1.《疼痛难免》
-2.《爱在三部曲》
-3.《妇女参政论者》
-4.《心跳漏一拍》
-5.《罗拉快跑》
-maybe 1.《苏珊娜的故事》
-2.《八恶人》
-3.《布达佩斯大饭店》</description>
-    </item>
-    
-  </channel>
+    <channel>
+        <title>about movie on 绿色污染</title>
+        <link>https://hare0910.github.io/tags/about-movie/</link>
+        <description>Recent content in about movie on 绿色污染</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+        <lastBuildDate>Wed, 11 May 2022 22:27:08 +0800</lastBuildDate><atom:link href="https://hare0910.github.io/tags/about-movie/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>5月影单及书单</title>
+        <link>https://hare0910.github.io/posts/5%E6%9C%88%E5%BD%B1%E5%8D%95%E5%8F%8A%E4%B9%A6%E5%8D%95/</link>
+        <pubDate>Wed, 11 May 2022 22:27:08 +0800</pubDate>
+        
+        <guid>https://hare0910.github.io/posts/5%E6%9C%88%E5%BD%B1%E5%8D%95%E5%8F%8A%E4%B9%A6%E5%8D%95/</guid>
+        <description>&lt;h1 id=&#34;film&#34;&gt;film&lt;/h1&gt;
+&lt;h2 id=&#34;待看&#34;&gt;待看&lt;/h2&gt;
+&lt;p&gt;别让我走&lt;/p&gt;
+&lt;p&gt;人约巴黎&lt;/p&gt;
+&lt;p&gt;持摄像机的人（纪录片&lt;/p&gt;
+&lt;p&gt;昆汀塔伦蒂诺的21年（纪录片&lt;/p&gt;
+&lt;p&gt;甜蜜的生活&lt;/p&gt;
+&lt;h2 id=&#34;已看&#34;&gt;已看&lt;/h2&gt;
+&lt;h1 id=&#34;book&#34;&gt;book&lt;/h1&gt;
+&lt;h2 id=&#34;待看-1&#34;&gt;待看&lt;/h2&gt;
+&lt;p&gt;《海浪》伍尔夫&lt;/p&gt;
+&lt;p&gt;《我将宇宙随身携带》&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>观影记录</title>
+        <link>https://hare0910.github.io/posts/%E8%A7%82%E5%BD%B1%E8%AE%B0%E5%BD%95/</link>
+        <pubDate>Wed, 11 May 2022 22:11:18 +0800</pubDate>
+        
+        <guid>https://hare0910.github.io/posts/%E8%A7%82%E5%BD%B1%E8%AE%B0%E5%BD%95/</guid>
+        <description>&lt;h2 id=&#34;511&#34;&gt;5.11&lt;/h2&gt;
+&lt;p&gt;1.《落水狗》&lt;/p&gt;
+&lt;p&gt;2.《面包店的女孩》&lt;/p&gt;
+&lt;p&gt;3.《罗拉快跑》&lt;/p&gt;
+&lt;h1 id=&#34;backup&#34;&gt;backup&lt;/h1&gt;
+&lt;h2 id=&#34;for-sure&#34;&gt;for sure&lt;/h2&gt;
+&lt;p&gt;1.《疼痛难免》&lt;/p&gt;
+&lt;p&gt;2.《爱在三部曲》&lt;/p&gt;
+&lt;p&gt;3.《妇女参政论者》&lt;/p&gt;
+&lt;p&gt;4.《心跳漏一拍》&lt;/p&gt;
+&lt;p&gt;5.《罗拉快跑》&lt;/p&gt;
+&lt;h2 id=&#34;maybe&#34;&gt;maybe&lt;/h2&gt;
+&lt;p&gt;1.《苏珊娜的故事》&lt;/p&gt;
+&lt;p&gt;2.《八恶人》&lt;/p&gt;
+&lt;p&gt;3.《布达佩斯大饭店》&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>
