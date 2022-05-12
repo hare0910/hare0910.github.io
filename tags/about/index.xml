@@ -8,14 +8,15 @@
         <language>en-us</language>
         <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
         <lastBuildDate>Thu, 12 May 2022 14:40:11 +0800</lastBuildDate><atom:link href="https://hare0910.github.io/tags/about/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>about this place</title>
+        <title>About This Place</title>
         <link>https://hare0910.github.io/posts/about-this-place/</link>
         <pubDate>Thu, 12 May 2022 14:40:11 +0800</pubDate>
         
         <guid>https://hare0910.github.io/posts/about-this-place/</guid>
-        <description>&lt;p&gt;欢迎&lt;/p&gt;
-&lt;p&gt;这里是about界面，因为这个人不知道怎么创建一个单独的界面，所以可以根据tag来找到这个地方，但是也没有tag和搜索功能的归纳，所以看到这个界面要全靠缘分，于是找到这里的你收获了一个没有什么奖励的彩蛋和一张rosa的照片
-&lt;img src=&#34;https://hare0910.github.io/img/5.jpg&#34;
+        <description>&lt;h3 id=&#34;introduction&#34;&gt;introduction&lt;/h3&gt;
+&lt;p&gt;欢迎&lt;/p&gt;
+&lt;p&gt;这里是about界面，因为这个人不知道怎么创建一个单独的界面，所以可以根据tag来找到这个地方，但是也没有tag和搜索功能的归纳，所以看到这个界面要全靠缘分，于是找到这里的你收获了一个没有什么奖励的彩蛋和一张rosa的照片&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://hare0910.github.io/img/5.jpg&#34;
 	
 	
 	
@@ -28,7 +29,7 @@
 &lt;h3 id=&#34;关于这个站点&#34;&gt;关于这个站点&lt;/h3&gt;
 &lt;p&gt;我一直很想要一个属于自己的可以随意发布东西的地方。熟悉我一点的朋友大概知道我在朋友圈和微博都非常喜欢碎碎念，但是经常困扰到我的是我碎碎念的东西可能会随意出现在别人的首页上，所以抱着一种不愿意打扰到别人的想法，极度艰难地设置了这样一个网站，如果你也想要这样一个网站，可以搜索hugo博客搭建。（有问题请不要想我能帮上忙，我什么都不会。&lt;/p&gt;
 &lt;p&gt;这里会有书影音记录，日常杂碎，不知道为什么但是想留下来的照片，极度私人的想法（so please do not judge me if u see anything stupid。&lt;/p&gt;
-&lt;p&gt;最后放上一张帮助我的程序员留下的照片，非常感谢他对我一直打扰带着的耐心&lt;/p&gt;
+&lt;p&gt;最后放上一张帮助我的程序员留下的照片，非常感谢他对我的一直打扰带着的耐心&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://hare0910.github.io/img/1.jpg&#34;
 	
 	
